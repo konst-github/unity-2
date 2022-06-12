@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Leaf
+  - Stamen
+  - Garden
+  - Ground
+  - Cube
+  - Meteor
+  - Spaceship
+  - Bounds
+  - Laser
+  - RGB
+  - HSV
+  - RH
+  - GS
+  - BV
+  - 8
+  - 16
+  - 32
+  - 2
+  - 64
+  - 4
+  - Grain
+  - A
+  - A#
+  - B
+  - C1
+  - C#
+  - C2
+  - D
+  - D#
+  - E
+  - F
+  - F#
+  - G
+  - G#
+  - Piano_Key_Ghost
+  - Piano_Key_D#
+  - Piano_Key_C#
+  - Piano_Key_A#
+  - Piano_Key_G#
+  - Piano_Key_F#
+  - Piano_Key_C1
+  - Piano_Key_D
+  - Piano_Key_E
+  - Piano_Key_F
+  - Piano_Key_G
+  - Piano_Key_A
+  - Piano_Key_B
+  - Piano_Key_C2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Laser
+  - Bounds
+  - Meteor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

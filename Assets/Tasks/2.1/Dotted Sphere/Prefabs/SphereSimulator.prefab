@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2867261503814660418
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8507293365717465966}
+  - component: {fileID: 8030496713626378860}
+  m_Layer: 0
+  m_Name: SphereSimulator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8507293365717465966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2867261503814660418}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8030496713626378860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2867261503814660418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0aaaa8bf1117c440a37dc213da32604, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sphereSize: 250
+  latitudesCount: 33
+  longitudesCount: 32
+  cubePrefab: {fileID: 731424587817696746, guid: 7f1d9ecc3ae50ce43b6c5868d44fedb9, type: 3}
+  rotationAnglePerFrame: 0.1
+  materials:
+  - {fileID: 2100000, guid: b9439790e451f5d40b443a4bba6f7ce1, type: 2}
+  - {fileID: 2100000, guid: db3ced60c3099074fad2203248fbad0c, type: 2}
+  - {fileID: 2100000, guid: 2a0554f607fbdcf44abb9b72e2f36b83, type: 2}
+  - {fileID: 2100000, guid: bac05d80a8539e84fb23d573c56c091e, type: 2}
+  - {fileID: 2100000, guid: cf1caa8dfa86dbe4296da7afc1346082, type: 2}
+  - {fileID: 2100000, guid: f5093c8e3326f8e42bd7111c9118c036, type: 2}
+  - {fileID: 2100000, guid: 1e15002eca38fba4784499d4bf51f765, type: 2}
+  - {fileID: 2100000, guid: 109f108d6b89433469fc3e8e2599fe76, type: 2}
+  - {fileID: 2100000, guid: 20425002881e9fb4d93b10287f42122e, type: 2}
+  - {fileID: 2100000, guid: 2e9b1b50aca38a34fa77fe2e2cce3147, type: 2}
